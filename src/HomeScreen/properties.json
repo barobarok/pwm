@@ -1,0 +1,11 @@
+{
+  "info": [
+    {"key": "Printer name", "value": "Zanzung M262x Series"},
+    {"key": "Printer model", "value": "M262x Series"},
+    {"key": "Printer manufacturer", "value": "Zanzung"},
+    {"key": "Data format", "value": "RAW"},
+    {"key": "Color Support", "value": "YES"},
+    {"key": "Port Name", "value": "USB002"},
+    {"key": "Printer Processor", "value": "ssk4mPC"}
+  ]
+}
