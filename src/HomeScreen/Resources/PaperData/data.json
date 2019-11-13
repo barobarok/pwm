@@ -1,0 +1,19 @@
+{
+  "info": [
+    {
+      "tray": "1",
+      "format": "A5",
+      "value": "72%"
+    },
+    {
+      "tray": "2",
+      "format": "A4",
+      "value": "20%"
+    },
+    {
+      "tray": "3",
+      "format": "A2",
+      "value": "80%"
+    }
+  ]
+}

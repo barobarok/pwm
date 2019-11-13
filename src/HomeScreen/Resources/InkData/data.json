@@ -1,0 +1,28 @@
+{
+  "info": [
+    {
+      "color_start": "#AEE3E7",
+      "color": "#0effff",
+      "value": "47%",
+      "name": "cyan"
+    },
+    {
+      "color_start": "#D872DC",
+      "color": "#F600FF",
+      "value": "50%",
+      "name": "magenta"
+    },
+    {
+      "color_start": "#EDEE83",
+      "color": "#FCFF00",
+      "value": "43%",
+      "name": "yellow"
+    },
+    {
+      "color_start": "#363636",
+      "color": "#000",
+      "value": "72%",
+      "name": "black"
+    }
+  ]
+}
